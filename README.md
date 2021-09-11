@@ -1,3 +1,4 @@
+![iStock-956777220](https://user-images.githubusercontent.com/83866738/132959255-e391e472-7de4-4f8f-af42-fd65b6126189.jpg)
 # LGMVIP-TASK-1-STOCK-PREDICTION
 TASK 3 - Stock Market Prediction And Forecasting Using Stacked LSTM
 Introduction
