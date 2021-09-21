@@ -1,6 +1,9 @@
+# LGMVIP Data Science Internship
+# Author: Shaik Khaja Bee, Data Science Intern at LetsGrowMore
+# LGMVIP-TASK-1: 2)Stock Market Prediction And Forecasting Using Stacked LSTM
 ![iStock-956777220](https://user-images.githubusercontent.com/83866738/132959255-e391e472-7de4-4f8f-af42-fd65b6126189.jpg)
-# LGMVIP-TASK-1-STOCK-PREDICTION
-TASK 3 - Stock Market Prediction And Forecasting Using Stacked LSTM
+
+# Stock Market Prediction And Forecasting Using Stacked LSTM
 Introduction
 Trying to predict how the securities exchange will work is one of the most difficult tasks. There are so many variables involved with the expectation – physical elements versus psychological factors, rational and irrational behaviour, and so on.
 All of these factors combine to make share costs unpredictable and difficult to predict with any degree of certainty.
